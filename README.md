@@ -1,2 +1,3 @@
 # masscan2dismap2wxbot
-端口变更监测
+main1.py用途端口变更监测
+main2.py用途为快速信息收集
